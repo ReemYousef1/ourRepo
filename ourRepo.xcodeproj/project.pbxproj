@@ -14,6 +14,7 @@
 		2B1D155E2CA94505008C83B2 /* ourRepoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B1D155D2CA94505008C83B2 /* ourRepoTests.swift */; };
 		2B1D15682CA94505008C83B2 /* ourRepoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B1D15672CA94505008C83B2 /* ourRepoUITests.swift */; };
 		2B1D156A2CA94505008C83B2 /* ourRepoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B1D15692CA94505008C83B2 /* ourRepoUITestsLaunchTests.swift */; };
+		BFC792522CA95150004367F9 /* nouf.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC792512CA9514E004367F9 /* nouf.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		2B1D15632CA94505008C83B2 /* ourRepoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ourRepoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B1D15672CA94505008C83B2 /* ourRepoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ourRepoUITests.swift; sourceTree = "<group>"; };
 		2B1D15692CA94505008C83B2 /* ourRepoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ourRepoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BFC792512CA9514E004367F9 /* nouf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nouf.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				2B1D154C2CA94504008C83B2 /* ourRepoApp.swift */,
 				2B1D154E2CA94504008C83B2 /* ContentView.swift */,
+				BFC792512CA9514E004367F9 /* nouf.swift */,
 				2B1D15502CA94505008C83B2 /* Assets.xcassets */,
 				2B1D15522CA94505008C83B2 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B1D154F2CA94504008C83B2 /* ContentView.swift in Sources */,
+				BFC792522CA95150004367F9 /* nouf.swift in Sources */,
 				2B1D154D2CA94504008C83B2 /* ourRepoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
